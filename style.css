@@ -1,12 +1,13 @@
 table {
-    border: 10px solid black;
-    width: 1000px;
-    height: 1000px;
+    border: 15px solid darkgray !important;
+    width: 1200px;
+    height: 1200px;
     border-collapse: collapse;
+    margin: 40px;
 }
 
-tr, td {
-    border: 2px solid black;
+td {
+    border: 20px solid black;
 }
 
 .yellow {
@@ -25,3 +26,38 @@ tr, td {
     background-color: black;
 }
 
+.first__row {
+    height: 150px;
+}
+
+.second__row, .third__row {
+    height: 300px;
+}
+
+.fourth__row, .fifth__row {
+    height: 150px;
+}
+
+.sixth__row {
+    height: 100px;
+}
+
+.seventh__row {
+    height: 50px;
+}
+
+.long {
+    width: 50px;
+}
+
+.column {
+    width: 125px !important;
+}
+
+.second__column {
+    width: 34px;
+}
+
+.box {
+    width: 5px;
+}
