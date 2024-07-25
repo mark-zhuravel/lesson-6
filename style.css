@@ -9,3 +9,19 @@ tr, td {
     border: 2px solid black;
 }
 
+.yellow {
+    background-color: yellow;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.black {
+    background-color: black;
+}
+
